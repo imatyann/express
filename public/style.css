@@ -1,0 +1,51 @@
+body {
+  background: #000000;
+}
+
+h2 {
+  font-family: 'M PLUS 1p', sans-serif;
+  font-size: 1.2rem;
+  letter-spacing: 0.4rem;
+  color: #ffffff;
+}
+
+input {
+  font-family: 'M PLUS 1p', sans-serif;
+  font-size: 1.2rem;
+  letter-spacing: 0.4rem;
+  color: #000000;
+  border-color: cadetblue;
+}
+
+p{
+  color: #ffffff;
+  text-align: center;
+}
+
+
+.search {
+  height: 50vh;
+}
+
+.search button{
+  color: #000000;
+}
+
+.card {
+  border-color:#ffffff ;
+  background: #000000;
+}
+
+.card-body{
+  font-size: 1rem;
+  text-align: center;
+  color: #ffffff;
+}
+
+.heart {
+  color: #000000;
+}
+
+.line{
+  font-size: ;
+}
